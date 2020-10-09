@@ -19,3 +19,21 @@ Here are some ideas to get you started:
 [![GitHub priyatakaneria](https://img.shields.io/github/followers/priyatakaneria?label=follow&style=social)](https://github.com/priyatakaneria)
 <br />
 <br />
+
+
+Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London.
+
+I am particularly interested in:
+- 👩‍💻 Lower-level programming 
+- 🦾 Programmable electronics, devices and gadgets
+
+**Languages:**
+<br />
+<br />
+<a><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></a>
+<a><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></a>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatakaneria&show_icons=true&line_height=27" alt="Priya's Github stats" />
+</a>
