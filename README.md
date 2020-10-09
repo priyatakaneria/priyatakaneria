@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Jim 👋
-
 [![Linkedin: priyatakaneria](https://img.shields.io/badge/-priyatakaneria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyata-kaneria-719ab51b8/)](https://www.linkedin.com/in/priyata-kaneria-719ab51b8/)
 [![GitHub priyatakaneria](https://img.shields.io/github/followers/priyatakaneria?label=follow&style=social)](https://github.com/priyatakaneria)
 <br />
