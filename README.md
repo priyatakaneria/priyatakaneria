@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London.
 
 I am particularly interested in:
