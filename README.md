@@ -23,6 +23,7 @@ Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London.
 
 I am particularly interested in:
 - 👩‍💻 Lower-level programming 
+- 🔌 Communicating with microcontroller boards
 - 🦾 Programmable electronics, devices and gadgets
 
 **Languages:**
@@ -31,6 +32,12 @@ I am particularly interested in:
 <a><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></a>
 <a><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></a>
+
+**MCU Platforms:**
+<br />
+<br />
+<a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"></a>
+<a><img height="20" src="https://avatars0.githubusercontent.com/u/8916057?s=400&v=4"></a>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatakaneria&show_icons=true&line_height=27" alt="Priya's Github stats" />
