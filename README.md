@@ -32,6 +32,7 @@ I am particularly interested in:
 <a><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></a>
 <a><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></a>
+<a><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
 
 **MCU Platforms:**
 <br />
