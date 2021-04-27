@@ -23,7 +23,7 @@ Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London.
 
 I am particularly interested in:
 - 👩‍💻 Lower-level programming 
-- 🔌 Communicating with microcontroller boards in Embedded C++
+- 🔌 Communicating with microcontroller boards in Embedded C and C++
 - 🦾 Programmable electronics, devices and gadgets
 
 **Languages:**
