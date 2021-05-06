@@ -39,7 +39,7 @@ I am particularly interested in:
 <br />
 <a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"></a>
 <a><img height="20" src="https://avatars0.githubusercontent.com/u/8916057?s=400&v=4"></a>
-<a><img height="20" src="https://static4.arrow.com/-/media/arrow/images/manufacturers/s/silicon-labs-approved.jpg"></a>
+<a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Silicon_Labs_2015.svg/1200px-Silicon_Labs_2015.svg.png"></a>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatakaneria&show_icons=true&line_height=27" alt="Priya's Github stats" />
