@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![GitHub priyatakaneria](https://img.shields.io/github/followers/priyatakaneria?label=follow&style=social)](https://github.com/priyatakaneria)
 <br />
 
-Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London.
+Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London. I'm a Junior Embedded Software Engineer at  <a href="https://www.sportable.com/">Sportable</a>.
 
 I am particularly interested in:
 - 👩‍💻 Lower-level programming 
