@@ -42,5 +42,5 @@ I am particularly interested in:
 <a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Silicon_Labs_2015.svg/1200px-Silicon_Labs_2015.svg.png"></a>
 
 <a>
-  [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatakaneria)](https://github.com/priyatakaneria/github-readme-stats)
+  [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatakaneria)](https://github.com/anuraghazra/github-readme-stats)
 </a>
