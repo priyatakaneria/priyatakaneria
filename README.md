@@ -41,5 +41,5 @@ I am particularly interested in:
 <a><img height="20" src="https://avatars0.githubusercontent.com/u/8916057?s=400&v=4"></a>
 <a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Silicon_Labs_2015.svg/1200px-Silicon_Labs_2015.svg.png"></a>
 
-[![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatakaneria)](https://github.com/anuraghazra/github-readme-stats)
+[![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatakaneria&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
