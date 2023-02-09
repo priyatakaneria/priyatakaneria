@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 [![GitHub priyatakaneria](https://img.shields.io/github/followers/priyatakaneria?label=follow&style=social)](https://github.com/priyatakaneria)
 <br />
 
-Hi, I'm Priyata Kaneria, an eager Computer Science graduate from London. I'm a Junior Embedded Software Engineer at  <a href="https://www.sportable.com/">Sportable</a>.
+Hi, I'm Priyata Kaneria, an excited and inspired Embedded Software Engineer based in London. I am currently an Associate Software Engineer at  <a href="https://www.cubic.com/solutions/transportation">Cubic Transportation Systems</a>.
 
 I am particularly interested in:
 - 👩‍💻 Lower-level programming 
 - 🔌 Communicating with microcontroller boards in Embedded C and C++
 - 🦾 Programmable electronics, devices and gadgets
+- 👩‍🎨 Creativity that the overlap between electronics and software facilitate in order to implement life-changing, world-changing ideas
 
 **Languages:**
 <br />
@@ -33,13 +34,4 @@ I am particularly interested in:
 <a><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></a>
 <a><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
-
-**MCU Platforms:**
-<br />
-<br />
-<a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"></a>
-<a><img height="20" src="https://avatars0.githubusercontent.com/u/8916057?s=400&v=4"></a>
-<a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Silicon_Labs_2015.svg/1200px-Silicon_Labs_2015.svg.png"></a>
-
-[![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatakaneria&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
