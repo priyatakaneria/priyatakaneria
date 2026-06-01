@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 [![GitHub priyatakaneria](https://img.shields.io/github/followers/priyatakaneria?label=follow&style=social)](https://github.com/priyatakaneria)
 <br />
 
-Hi, I'm Priyata Kaneria, an excited and inspired Embedded Software Engineer based in London. I am currently an Associate Software Engineer at  <a href="https://www.cubic.com/solutions/transportation">Cubic Transportation Systems</a>.
+Hi, I'm Priyata Kaneria, an excited and inspired Embedded Software Engineer based in London. I was previously an Associate Software Engineer at  <a href="https://www.cubic.com/solutions/transportation">Cubic Transportation Systems</a>.
 
 I am particularly interested in:
 - 👩‍💻 Lower-level programming 
 - 🔌 Communicating with microcontroller boards in Embedded C and C++
 - 🦾 Programmable electronics, devices and gadgets
 - 👩‍🎨 Creativity that the overlap between electronics and software facilitates in order to implement life-changing, world-changing ideas
+- 👾 Solarpunk, virtual reality and exoskeletons
 
 **Languages:**
 <br />
@@ -34,4 +35,5 @@ I am particularly interested in:
 <a><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></a>
 <a><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
+<a><img height="20" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"></a>
 
