@@ -25,7 +25,7 @@ I am particularly interested in:
 - 👩‍💻 Lower-level programming 
 - 🔌 Communicating with microcontroller boards in Embedded C and C++
 - 🦾 Programmable electronics, devices and gadgets
-- 👩‍🎨 Creativity that the overlap between electronics and software facilitates in order to implement life-changing, world-changing ideas
+- 👩‍🎨 Creativity that the overlap between electronics and software facilitates in order to implement life and world changing ideas
 - 👾 Solarpunk, virtual reality and exoskeletons
 
 **Languages:**
