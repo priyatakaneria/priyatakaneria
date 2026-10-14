@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![GitHub priyatakaneria](https://img.shields.io/github/followers/priyatakaneria?label=follow&style=social)](https://github.com/priyatakaneria)
 <br />
 
-Hi, I'm Priyata Kaneria, an excited and inspired Embedded Software Engineer based in London. I am currently a Junior Embedded Software Engineer at  <a href="https://morph.inc">morph.</a>.
+Hi, I'm Priyata Kaneria, an excited and inspired Embedded Software Engineer based in London. I am currently a Junior Embedded Software Engineer at  <a href="https://morph.inc">morph.</a>
 
 I am particularly interested in:
 - 👩‍💻 Lower-level programming 
